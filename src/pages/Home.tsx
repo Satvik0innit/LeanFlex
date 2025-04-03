@@ -31,7 +31,7 @@ const Home = () => {
               workout is just 30% of the whole transfomation, diet is 60% and your daily activity is the rest 10%.
             </p>
             <Link
-              to="/diet-plan"
+              to="/login"
               className="bg-red-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-red-700 transition duration-300 inline-flex items-center"
             >
               Start Your Journey <ArrowRight className="ml-2" />
