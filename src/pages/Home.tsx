@@ -84,7 +84,7 @@ const Home = () => {
             </div>
 
             <p className="text-white mb-2">
-              Made by - <span className='text-xl font-bold text-primary'>Satvik Sharma <span className="text-white">, </span> Vijay Indra Tejas <span className="text-white">and </span> Rithanya K K </span>
+              Made by - <span className='text-xl font-bold text-primary'>Satvik Sharma <span className="text-white">, </span>Vijay Indra Tejas<span className="text-white">and </span>Rithanya K K</span>
             </p>
             <p className="text-white">
               © 2025 LeanFlex. All rights reserved.
