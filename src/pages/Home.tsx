@@ -72,22 +72,22 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Footer */}
+      {/* Footer - Updated for better mobile centering */}
       <footer className="bg-black py-8">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex flex-col items-center">
-            <div className="flex items-center mb-6">
+          <div className="flex flex-col items-center text-center">
+            <div className="flex items-center justify-center mb-6">
               <Dumbbell size={32} className="text-red-600 mr-2" />
               <span className="text-2xl font-bold text-white">
                 Lean<span className="text-red-600">Flex</span>
               </span>
             </div>
 
-            <p className="text-white">
-              Made by - <span className='text-xl font-bold text-primary'>Satvik Sharma <span className="text-white">and </span>Vijay Indra Tejas </span>
+            <p className="text-white mb-2">
+              Made by - <span className='text-xl font-bold text-primary'>Satvik Sharma <span className="text-white">and </span>Vijay Indra Tejas</span>
             </p>
             <p className="text-white">
-              © 2025 LeanFlex.
+              © 2025 LeanFlex. All rights reserved.
             </p>
           </div>
         </div>
